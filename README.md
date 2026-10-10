@@ -50,23 +50,23 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/%C3%A1lex-raimundo-422663240/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
+  <img src="https://raw.githubusercontent.com/alex325-oss/alex325-oss/main/assets/badge-linkedin.svg" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/alexraimundo01/">
-  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+  <img src="https://raw.githubusercontent.com/alex325-oss/alex325-oss/main/assets/badge-instagram.svg" alt="Instagram" />
 </a>
 &nbsp;&nbsp;
 <a href="https://wa.me/5573981589881">
-  <img src="https://img.shields.io/badge/WhatsApp-0A101F?style=for-the-badge&logo=whatsapp&logoColor=10B981&labelColor=0A101F" alt="WhatsApp" />
+  <img src="https://raw.githubusercontent.com/alex325-oss/alex325-oss/main/assets/badge-whatsapp.svg" alt="WhatsApp" />
 </a>
 &nbsp;&nbsp;
 <a href="https://portfolio-alex-puce.vercel.app">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-0A101F?style=for-the-badge&logo=google-chrome&logoColor=22D3EE&labelColor=0A101F" alt="Portfólio" />
+  <img src="https://raw.githubusercontent.com/alex325-oss/alex325-oss/main/assets/badge-portfolio.svg" alt="Portfólio" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:alexraimundo735@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+  <img src="https://raw.githubusercontent.com/alex325-oss/alex325-oss/main/assets/badge-email.svg" alt="Email" />
 </a>
 
 </div>

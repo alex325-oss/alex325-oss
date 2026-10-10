@@ -49,11 +49,11 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/%C3%A1lex-raimundo-422663240/">
+<a href="https://www.linkedin.com/in/%C3%A1lex-ferreira-422663240/">
   <img src="https://raw.githubusercontent.com/alex325-oss/alex325-oss/main/assets/badge-linkedin.svg" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.instagram.com/alexraimundo01/">
+<a href="https://www.instagram.com/true_aleex_/">
   <img src="https://raw.githubusercontent.com/alex325-oss/alex325-oss/main/assets/badge-instagram.svg" alt="Instagram" />
 </a>
 &nbsp;&nbsp;

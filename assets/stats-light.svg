@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="190" viewBox="0 0 580 190" fill="none" role="img">
+<rect x="0.5" y="0.5" rx="10" width="579" height="189" fill="#FFFFFF" stroke="#E2E8F0"/>
+
+<text x="26" y="36" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="18" font-weight="600" fill="#0891B2">GitHub Stats de Álex Raimundo Ferreira</text>
+<circle cx="32" cy="59" r="3" fill="#7C3AED"/><text x="46" y="63" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" fill="#475569">Repositórios</text><text x="330" y="63" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" font-weight="700" fill="#0F172A">17</text>
+<circle cx="32" cy="79" r="3" fill="#7C3AED"/><text x="46" y="83" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" fill="#475569">Commits (todos os anos)</text><text x="330" y="83" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" font-weight="700" fill="#0F172A">422</text>
+<circle cx="32" cy="99" r="3" fill="#7C3AED"/><text x="46" y="103" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" fill="#475569">Commits em 2026</text><text x="330" y="103" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" font-weight="700" fill="#0F172A">398</text>
+<circle cx="32" cy="119" r="3" fill="#7C3AED"/><text x="46" y="123" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" fill="#475569">Pull requests</text><text x="330" y="123" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" font-weight="700" fill="#0F172A">0</text>
+<circle cx="32" cy="139" r="3" fill="#7C3AED"/><text x="46" y="143" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" fill="#475569">Issues</text><text x="330" y="143" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" font-weight="700" fill="#0F172A">0</text>
+<circle cx="32" cy="159" r="3" fill="#7C3AED"/><text x="46" y="163" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" fill="#475569">Estrelas</text><text x="330" y="163" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" font-weight="700" fill="#0F172A">0</text>
+<text x="554" y="180" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="9" fill="#94A3B8">inclui repositórios privados</text>
+</svg>
